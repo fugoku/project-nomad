@@ -15,7 +15,6 @@ node_modules/
 .npm
 
 # dotenv environment variables file
-.env
 
 # Build / Dist
 dist
@@ -33,7 +32,6 @@ server/public
 server/temp
 
 # IDE Files
-.vscode
 .idea
 
 # Frontend assets compiled code
@@ -41,3 +39,7 @@ admin/public/assets
 
 # Admin specific development files
 admin/storage
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
